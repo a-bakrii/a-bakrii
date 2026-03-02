@@ -17,14 +17,14 @@
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ AI Automation Tech Stack
 <p align="left">
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Make.com-8100FF?style=for-the-badge&logo=make&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Automation-000000?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -42,9 +42,9 @@
       <td><b>AI Automation Projects</b></td>
       <td>
         <ul>
-          <li>Building automated workflows with Python & AI Agents</li>
-          <li>Exploring LLMs and RAG for intelligent automation</li>
-          <li>Developing autonomous chatbots and task-movers</li>
+          <li>Building automated workflows with n8n & Make.com</li>
+          <li>Integrating OpenAI APIs into custom Python applications</li>
+          <li>Designing autonomous AI agents for productivity</li>
         </ul>
       </td>
     </tr>
@@ -52,8 +52,8 @@
       <td><b>Future Goals</b></td>
       <td>
         <ul>
-          <li>Contributing to AI-related open source projects</li>
-          <li>Scaling AI solutions for real-world business efficiency</li>
+          <li>Building scalable RAG systems for businesses</li>
+          <li>Contributing to AI-driven automation frameworks</li>
         </ul>
       </td>
     </tr>
@@ -68,8 +68,8 @@
       <th>Description</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/a-bakrii">AI Automation Agent</a></td>
-      <td>An end-to-end automation tool using Python and LLMs - <i>In Development</i></td>
+      <td><a href="https://github.com/a-bakrii">Advanced AI Automator</a></td>
+      <td>Full workflow automation using n8n and Python agents - <i>In Development</i></td>
     </tr>
   </table>
 </details>
