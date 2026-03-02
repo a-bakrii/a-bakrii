@@ -91,3 +91,23 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
 </p>
+---
+
+<p align="center">
+  <b>Thanks for stopping by! 😊</b> 
+  <br> 
+  Feel free to reach out if you're interested in <b>AI Automation</b> or just want to connect.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdulrahim-bakrii/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abdulrahim-bakrii@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
+</p>
