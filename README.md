@@ -4,26 +4,30 @@
 
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/abdulrahim-bakrii/">Abdulrahim Bakrii</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 
+<p align="center">
+  <b>🚀 Aspiring AI Automation Explorer | 🌱 Learning to build the future with AI & n8n</b>
+  <br>
+  <i>"Starting from zero, aiming for the stars. On a mission to master automation."</i>
+</p>
+
 <img align="right" hspace="30"
      src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7"
      alt="Profile Image"
      width="320"/>
 
-### 🚀 About Me
-- 🌱 **Currently specialized in:** Building the future with **AI Automation** - ⚡ **Philosophy:** Determined, passionate, and always curious.
-- 💎 **Values:** Clarity, ownership, and continuous improvement.
-- 📍 **Location:** Egypt 🇪🇬
-- 📫 **Reach Me At:** [abdulrahim-bakrii@gmail.com](mailto:abdulrahim-bakrii@gmail.com)
+### 🔍 My Focus Right Now
+- 📚 **Learning Path:** Diving into the world of **AI Automation** from scratch.
+- 🐍 **Language:** Mastering **Python** for scripting and automation.
+- ⚙️ **Tools:** Exploring **n8n** and **Make.com** to build my first workflows.
+- 🎯 **Goal:** To automate repetitive tasks and build intelligent AI agents.
 
 ---
 
-### 🛠️ AI Automation Tech Stack
+### 🛠️ The Toolkit (Learning in Progress)
 <p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Make.com-8100FF?style=for-the-badge&logo=make&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -31,52 +35,39 @@
 
 #### **Bad News:** > No matter how hard you try to protect yourself, one day, you will fail.
 
-####  **Good News:** > When you fail, each passing day, it opens you up to new possibilities, often helping you emerge as the best version of you.
+#### **Good News:** > When you fail, each passing day, it opens you up to new possibilities, often helping you emerge as the best version of you.
 
 ---
 
-<details><summary>🚀 AI Automation Learning Journey:</summary>
+<details><summary>🛤️ My Learning Roadmap (Starting 2024):</summary>
   <br>
   <table width="100%" align="center">
     <tr>
-      <td><b>AI Automation Projects</b></td>
+      <td><b>Phase 1: Basics</b></td>
       <td>
         <ul>
-          <li>Building automated workflows with n8n & Make.com</li>
-          <li>Integrating OpenAI APIs into custom Python applications</li>
-          <li>Designing autonomous AI agents for productivity</li>
+          <li>Fundamentals of Python for Automation</li>
+          <li>Understanding APIs and JSON</li>
+          <li>Basic workflows in n8n</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td><b>Future Goals</b></td>
+      <td><b>Phase 2: AI Integration</b></td>
       <td>
         <ul>
-          <li>Building scalable RAG systems for businesses</li>
-          <li>Contributing to AI-driven automation frameworks</li>
+          <li>Prompt Engineering for Developers</li>
+          <li>Connecting OpenAI to n8n workflows</li>
+          <li>Building my first AI-powered chatbot</li>
         </ul>
       </td>
-    </tr>
-  </table>
-</details>
-
-<details><summary>🏆 Notable Projects:</summary>
-  <br>
-  <table width="100%">
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/a-bakrii">Advanced AI Automator</a></td>
-      <td>Full workflow automation using n8n and Python agents - <i>In Development</i></td>
     </tr>
   </table>
 </details>
 
 <br>
 
-### 📊 GitHub Activity & Stats
+### 📊 My GitHub Stats
 <table width="100%" align="center">
 <tr>
 <td align="center">
