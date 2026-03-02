@@ -89,14 +89,8 @@
 
 <br>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
-</p>
----
-
-<p align="center">
   <b> Thank you for visiting my profile ! 😊</b> 
   <br> 
-  Feel free to reach out if you're interested in <b>AI Automation</b> or just want to connect.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
 </p>
