@@ -5,7 +5,7 @@
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/abdulrahim-bakrii/">Abdulrahim Bakrii</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 
 <p align="center">
-  <b>🚀 Aspiring AI Automation Explorer | 🌱 Learning to build the future with AI & n8n</b>
+  <b>🚀 passionate about Data Science & AI | Business Process Automation (BPA) 🌱 </b>
   <br>
   <i>"Starting from zero, aiming for the stars. On a mission to master automation."</i>
 </p>
