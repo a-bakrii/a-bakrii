@@ -5,9 +5,9 @@
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/abdulrahim-bakrii/">Abdulrahim Bakrii</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 
 <p align="center">
-  <b>🚀 passionate about Data Science & AI | Business Process Automation (BPA) 🌱 </b>
+  <b>🚀 Passionate about Data Science & AI | Business Process Automation (BPA) 🌱 </b>
   <br>
-  <i>"Starting from zero, aiming for the stars. On a mission to master automation."</i>
+  <i>"Starting from zero, aiming for the stars. On a mission to master data science and automation."</i>
 </p>
 
 <img align="right" hspace="30"
@@ -16,7 +16,7 @@
      width="320"/>
 
 ### 🔍 My Focus Right Now
-- 📚 **Learning Path:** Diving into the world of **AI Automation** from scratch.
+- 📚 **Learning Path:** Diving into the world of **Data science and AI Automation** from scratch.
 - 🐍 **Language:** Mastering **Python** for scripting and automation.
 - ⚙️ **Tools:** Exploring **n8n** and **Make.com** to build my first workflows.
 - 🎯 **Goal:** To automate repetitive tasks and build intelligent AI agents.
